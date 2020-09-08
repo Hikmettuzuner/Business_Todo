@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271149610545",
+    "firebase_url": "https://w2wbusiness-c0f06.firebaseio.com",
+    "project_id": "w2wbusiness-c0f06",
+    "storage_bucket": "w2wbusiness-c0f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271149610545:android:478262f864aa67318e8710",
+        "android_client_info": {
+          "package_name": "com.example.business_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271149610545-bacijev1ik45fulh5kuo0g8g1pu593if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.business_todo",
+            "certificate_hash": "5456769e3be2a850714823bbfb0e236cbe4ae484"
+          }
+        },
+        {
+          "client_id": "271149610545-asdh0e2ontdh37cve6mrp77jj7d7m3cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFsr-Lrn7A5PDGwRBZnL01HSmT8Ir7muM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271149610545-asdh0e2ontdh37cve6mrp77jj7d7m3cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
